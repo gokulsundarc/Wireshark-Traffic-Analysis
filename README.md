@@ -25,7 +25,7 @@
   <img width="1366" height="702" alt="Screenshot_2026-05-27_02_34_00" src="https://github.com/user-attachments/assets/bd4caaa2-bd5d-4208-8b31-b06fa5728fb0" />
 
 - `arp` — MAC address resolution
-- 
+  
   <img width="1366" height="702" alt="Screenshot_2026-05-27_02_35_06" src="https://github.com/user-attachments/assets/67c398a4-b107-4338-b1dd-7cf57f16f529" />
 
 
@@ -88,7 +88,7 @@
   
   <img width="1366" height="702" alt="Screenshot_2026-05-27_01_40_21" src="https://github.com/user-attachments/assets/37facf42-84ee-449a-8f7b-febac1fd3c47" />
 
-- `ip.dst == <ubuntu-ip>` — traffic hitting target
+- `ip.dst == 10.238.164.50` — traffic hitting target
 
   <img width="1366" height="702" alt="Screenshot_2026-05-27_01_41_33" src="https://github.com/user-attachments/assets/67869b17-f36f-41d6-bb6b-d47e8ffdef60" />
 
